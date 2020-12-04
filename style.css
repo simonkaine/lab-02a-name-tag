@@ -6,6 +6,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
+    
 }
 
 .nametag {
@@ -37,7 +39,7 @@ body {
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
-.nametag p {
+.nametag section {
     position: relative;
     padding: 30px;
     width: 498px;
